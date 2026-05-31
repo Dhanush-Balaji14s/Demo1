@@ -1,0 +1,4 @@
+sample record 
+a=Geetha 
+b=Kamalam
+c=Balaji
