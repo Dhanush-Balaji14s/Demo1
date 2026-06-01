@@ -1,1 +1,1 @@
-new file is added in gitbranch2
+new file is added in gitbranch2 new branch is created
